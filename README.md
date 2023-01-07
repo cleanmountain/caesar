@@ -5,5 +5,7 @@ Handy for _very_ easy CTF challenges, I guess :)
 
 *Examples*
 wdmlqbtmdamv -> 18 = oveditlevsen
+
 noxvsvvoosqsvwec -> 16 = denlilleigilmus
+
 idfehjrsqdrr -> 1 = jegfikstress
