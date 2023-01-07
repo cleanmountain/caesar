@@ -16,3 +16,5 @@ wdmlqbtmdamv -> 18 = oveditlevsen
 noxvsvvoosqsvwec -> 16 = denlilleigilmus
 
 idfehjrsqdrr -> 1 = jegfikstress
+
+<img width="362" alt="Skærmbillede 2023-01-07 kl  21 54 38" src="https://user-images.githubusercontent.com/120788835/211170020-3e0109b7-30f2-4975-831f-9184cee2cab8.png">
